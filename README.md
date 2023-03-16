@@ -1,4 +1,12 @@
-### Hi there 👋
+# 👋 Hello! Welcome to my Github profile.
+## My name is Paulo Vitor and my nickname is "Tales"!
+
+## I am learning
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nodejs/nodejs-original.svg"/> <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" />
+
+## Things I know
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" /> <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" /> <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" />
+
 
 <!--
 **T4l3s/T4l3s** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
