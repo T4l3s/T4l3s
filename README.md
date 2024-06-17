@@ -1,24 +1,44 @@
-# 👋 Hello! Welcome to my Github profile.
-## My name is Paulo Vitor and my nickname is "Tales"!
+# 👋 Olá! Eu sou o Paulo Vitor
 
-## I am learning
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nodejs/nodejs-original.svg" width="40" height="40"/> <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" width="40" height="40"/> <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg" width="40" height="40"/>
+Bem-vindo ao meu GitHub! Sou um entusiasta da tecnologia e desenvolvedor apaixonado por programação desde os 12 anos. Aqui você encontrará um pouco de tudo sobre meu trabalho e interesses no mundo do desenvolvimento de software.
 
-## Things I know
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" width="40" height="40"/> <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" width="40" height="40"/> <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" width="40" height="40"/>
+## 🚀 Sobre Mim
 
+- 🎓 Estudante de Análise e Desenvolvimento de Sistemas na Uninorte.
+- 🌱 Aprendendo e crescendo em tecnologias como Docker, Node.JS, React.JS, React Native, Express e sistemas Linux.
+- 💡 Sempre em busca de novos desafios e oportunidades para aplicar meus conhecimentos.
 
-<!--
-**T4l3s/T4l3s** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+## 🛠️ Tecnologias e Ferramentas
 
-Here are some ideas to get you started:
+- **Frontend:** 
+  - ![ReactJS](https://img.shields.io/badge/ReactJS-61DAFB?style=for-the-badge&logo=react&logoColor=white)
+  - ![React Native](https://img.shields.io/badge/React_Native-61DAFB?style=for-the-badge&logo=react&logoColor=white)
+- **Backend:**
+  - ![Node.JS](https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=nodedotjs&logoColor=white)
+  - ![Express](https://img.shields.io/badge/Express-000000?style=for-the-badge&logo=express&logoColor=white)
+- **Containerização:**
+  - ![Docker](https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white)
+- **Sistemas Operacionais:**
+  - ![Linux](https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black)
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## 📂 Repositórios Destacados
+
+### 📝 [Projeto 1: Nome do Projeto](link-para-o-projeto)
+Descrição breve do projeto, suas funcionalidades principais e as tecnologias usadas.
+
+### 🌐 [Projeto 2: Nome do Projeto](link-para-o-projeto)
+Descrição breve do projeto, suas funcionalidades principais e as tecnologias usadas.
+
+## 🤝 Conecte-se Comigo
+
+- [LinkedIn](https://www.linkedin.com/in/seu-perfil-linkedin)
+- [Twitter](https://twitter.com/seu-perfil-twitter)
+- [Email](mailto:seu-email@example.com)
+
+## 📈 Estatísticas do GitHub
+
+![Estatísticas do GitHub](https://github-readme-stats.vercel.app/api?T4l3sb&show_icons=true&theme=radical)
+
+![Linguagens Mais Usadas](https://github-readme-stats.vercel.app/api/top-langs/?username=T4l3s&layout=compact&theme=radical)
+
+Divirta-se explorando meu GitHub e fique à vontade para entrar em contato!
